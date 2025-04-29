@@ -14,4 +14,4 @@ Step 3: After downloading the <a href='https://github.com/xSilkRoadx/deepfake/re
 Step 4: Upload a photo of yourself and the photo you want to swap your face with.  \
 Step 6: Watch the app complete the face swap process. 
 
-![image](https://your-image-url.type) with <img src="https://your-image-url.type" width="100" height="100">
+![image]https://github.com/user-attachments/assets/0b705714-4a0f-481b-a900-6f6027d7afa2) with <img src="https://github.com/user-attachments/assets/0b705714-4a0f-481b-a900-6f6027d7afa2" width="100" height="100">
