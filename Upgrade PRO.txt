@@ -1,0 +1,14 @@
+Run Roop.exe Automatic Upgrade DeepFake and Swapface.vn
+Support: https://t.me/wangsen9998
+
+To get support for installation and upgrading to Pro, you should give a 2-star rating to receive direct assistance from me, including help with setup, usage, and advice on avoiding common pitfalls. Contact address:
+
+https://t.me/wangsen9998 (This is the ONLY legitimate contact. If anyone demands payment, they are scammers.)
+
+What's Changed
+Trace error in CLI and UI by @wangsen9998 in #137
+Update Windows executable by @wangsen9998 in #133
+Update colab notebook by @wangsen9998in #128
+Add a Docker container for dot by @wangsen9998 in #95
+Fix of cusolver error on GPU by @wangsen9998 in #110
+Update the GUI, PyTorch and the documentation by @wangsen9998 in #107
