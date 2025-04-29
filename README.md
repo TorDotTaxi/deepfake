@@ -1,2 +1,4 @@
 # deepfake
-DeepFake Offensive Toolkit makes real-time, controllable deepfakes ready for virtual cameras injection. dot is created for performing penetration testing against e.g. identity verification and video conferencing systems, for the use by security analysts, Red Team members, and biometrics researchers.
+
+https://github.com/user-attachments/assets/68a3a89a-5514-4205-910b-011cd1648720
+
