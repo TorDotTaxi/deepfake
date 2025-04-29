@@ -10,6 +10,8 @@
 #### FOR ANY ISSUES RELATED TO INSTALLATION, NON-FUNCTIONING, OR PRO UPGRADES, CONTACT ME DIRECTLY ON TELEGRAM: 
 ### <a href='HTTPS://T.ME/wangsen9998' target='_blank'>[HTTPS://T.ME/wangsen9998](HTTPS://T.ME/wangsen9998)</a>.
 
+<video src="https://github.com/user-attachments/assets/59cf6318-f399-4e7a-afdb-6ee7759bf657" width="400" />
+
 <img src="https://github.com/user-attachments/assets/0b705714-4a0f-481b-a900-6f6027d7afa2" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/c6772074-73c3-4873-a53e-3624e8da74f0" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/14f2cef3-4d99-4711-8c87-e7345fcd558c" width="150" height="150">
