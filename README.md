@@ -1,4 +1,4 @@
-![IMG_2398](https://github.com/user-attachments/assets/a8ecab8d-61bb-4a19-b2f2-4f80743bb754)  <div align="center">
+<div align="center">
   
   # DEEPFAKE TOOLS BYPASS TWO-FACTOR AUTHENTICATION (2FA)
 
@@ -18,9 +18,10 @@
 
 <img src="https://github.com/user-attachments/assets/0b705714-4a0f-481b-a900-6f6027d7afa2" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/c6772074-73c3-4873-a53e-3624e8da74f0" width="150" height="150">
-<img src="https://github.com/user-attachments/assets/a976b15c-3a90-4447-aea8-85422507d3e7" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/14f2cef3-4d99-4711-8c87-e7345fcd558c" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/87c2388d-1d7b-4b36-a386-a132ca6d878e" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/f07d70ea-a649-43ea-96d3-0e7200bb20e4" width="150" height="150">
+
 
 
 
